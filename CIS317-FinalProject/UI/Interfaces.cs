@@ -37,9 +37,9 @@ public static class Interfaces
 
         for (int i = 0; i < 3; i++)
         {
-            Console.Write("Enter your username:");
+            Console.Write("Enter your username: ");
             string? user = Console.ReadLine();
-            Console.Write("Enter your password:");
+            Console.Write("Enter your password: ");
             string? pass = Console.ReadLine();
 
             if (Validators.BankerLogin(user, pass))

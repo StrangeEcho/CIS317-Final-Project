@@ -8,6 +8,7 @@ This project includes input validation, login & client existence authentication,
 2. Clone the Repository or Download the Zip File<br>
 3. Install necessary packages <code>dotnet restore</code><br>
 4. <b>Optional</b>: Build the project <code>dotnet build</code><br>
+5. Create an empty directory called "Data" in the CIS317/FinalProject Sub-Directory<br>
 5. Run the project <code>dotnet run</code>
 
 <h2>Skills Learned</h2>

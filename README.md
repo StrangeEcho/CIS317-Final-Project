@@ -4,15 +4,15 @@ This project allows a user to login as a banker and easily view, delete, add, an
 This project includes input validation, login & client existence authentication, seperation of tasks, and more
 
 <h2>Setup Steps:</h2>
-1. Make sure you have .NET 8.0 (C#)
-2. Clone the Repository or Download the Zip File
-3. Install necessary packages (`dotnet restore`)
-4. [**Optional**]: Build the project (`dotnet build`)
-5. Run the project (`dotnet run`)
+1. Make sure you have .NET 8.0 (C#)<br>
+2. Clone the Repository or Download the Zip File<br>
+3. Install necessary packages <code>dotnet restore</code><br>
+4. <b>Optional</b>: Build the project <code>dotnet build</code><br>
+5. Run the project <code>dotnet run</code>
 
 <h2>Skills Learned</h2>
-- C# Database Management
-- SQLite Proficiency 
+- C# Database Management<br>
+- SQLite Proficiency<br>
 - Overall better C# comprehension
 
 <h2>Language(s) Used</h2>
